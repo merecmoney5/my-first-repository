@@ -4,18 +4,20 @@
 
 ### alias @merecmoney
 
-
 my first repository
 
 my GitHub account is [merecmoney5](https://github.com/merecmoney5)
 
-**Favorite Programming Languages**
+**Favorite Programming Languages and Developer Tools**
 
 - Java
 - Python
 - C
 - Git
 - Linux
+- R
+- Groovy
+- Scala
 
 Albert Einstein once said :
 >Logic will get you from A to B. Imagination will take you everywhere.
